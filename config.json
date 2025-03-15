@@ -1,0 +1,58 @@
+{
+    "experiment_setup": {
+        "save_all_triplets_as_dataset": false,
+        "system_retry": 2,
+        "dataset": "thyroid"
+    },
+    "model": {
+        "answer_generator": {
+            "model_name": "base_llm",
+            "num_shot": 2
+        },
+        "triplet_generator": {
+            "model_name": "llm_n_shot",
+            "model_params": {
+                "openie.affinity_probability_cap": 0.6
+            },
+            "num_shot": 3
+        },
+        "fact_checker": {
+            "model_name": "llm_n_shot",
+            "split_reference_triplets": true,
+            "max_reference_triplet_length": 100,
+            "num_shot": 2,
+            "inquiry_mode": true
+        },
+        "hallucination_data_generator": {
+            "model_name": "llm_n_shot",
+            "num_shot": 2
+        },
+        "reprompter": {
+            "model_name": "llm",
+            "threshold": 0.6
+        },
+        "llm": {
+            "generator_model": "gpt-4o",
+            "request_max_try": 1,
+            "temperature": 0
+        }
+    },
+    "path": {
+        "data": {
+            "base": "data/",
+            "corpus": "corpus.json",
+            "demo": "demonstrations",
+            "corpus_triplet": "corpus_triplets_few_shot",
+            "questions_answers": "questions_answers.json",
+            "hallucination_data": "hallucination_data_final"
+        },
+        "experiment_result": {
+            "base": "results/",
+            "metrics": "metrics.json",
+            "predictions": "predictions.json",
+            "hallucination_metrics": "metrics_hallucination.json",
+            "hallucination_predictions": "predictions_hallucination.json"
+        },
+        "prompts": "prompt_bank.json"
+    }
+}

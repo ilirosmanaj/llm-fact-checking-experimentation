@@ -1,0 +1,40 @@
+{
+    "text": "Input:\nInput Text: Iodine thyroid blocking (ITB) is a protective measure used to reduce the risk of developing thyroid cancer following exposure to radioactive iodine, particularly in the context of a nuclear accident. It involves administering high doses of potassium iodide to block the uptake of radioiodine by the thyroid gland. This intervention is especially important in situations where there is a release of radioiodine into the atmosphere, as it can help prevent the long-term health consequences associated with thyroid cancer. The effectiveness of ITB has been recognized, but potential adverse effects have not been systematically investigated, leading to a weak evidence base regarding its safety.\nOutput:\n[[\"Iodine thyroid blocking (ITB)\", \"is\", \"a protective measure used to reduce the risk of developing thyroid cancer following exposure to radioactive iodine in the context of a nuclear accident\"], [\"Iodine thyroid blocking (ITB)\", \"involves\", \"administering high doses of potassium iodide to block the uptake of radioiodine by the thyroid gland\"], [\"Iodine thyroid blocking (ITB)\", \"is especially important in\", \"situations where there is a release of radioiodine into the atmosphere\"], [\"Iodine thyroid blocking (ITB)\", \"can help prevent\", \"the long-term health consequences associated with thyroid cancer\"], [\"The effectiveness of iodine thyroid blocking (ITB)\", \"has been recognized, but\", \"potential adverse effects have not been systematically investigated\"], [\"The lack of systematic investigation of potential adverse effects\", \"has led to\", \"a weak evidence base regarding the safety of iodine thyroid blocking (ITB)\"]]\n\n",
+    "input": {
+        "generated_answer": "Iodine thyroid blocking (ITB) is a protective measure used to reduce the risk of developing thyroid cancer following exposure to radioactive iodine, particularly in the context of a nuclear accident. It involves administering high doses of potassium iodide to block the uptake of radioiodine by the thyroid gland. This intervention is especially important in situations where there is a release of radioiodine into the atmosphere, as it can help prevent the long-term health consequences associated with thyroid cancer. The effectiveness of ITB has been recognized, but potential adverse effects have not been systematically investigated, leading to a weak evidence base regarding its safety."
+    },
+    "output": [
+        [
+            [
+                "Iodine thyroid blocking (ITB)",
+                "is",
+                "a protective measure used to reduce the risk of developing thyroid cancer following exposure to radioactive iodine in the context of a nuclear accident"
+            ],
+            [
+                "Iodine thyroid blocking (ITB)",
+                "involves",
+                "administering high doses of potassium iodide to block the uptake of radioiodine by the thyroid gland"
+            ],
+            [
+                "Iodine thyroid blocking (ITB)",
+                "is especially important in",
+                "situations where there is a release of radioiodine into the atmosphere"
+            ],
+            [
+                "Iodine thyroid blocking (ITB)",
+                "can help prevent",
+                "the long-term health consequences associated with thyroid cancer"
+            ],
+            [
+                "The effectiveness of iodine thyroid blocking (ITB)",
+                "has been recognized, but",
+                "potential adverse effects have not been systematically investigated"
+            ],
+            [
+                "The lack of systematic investigation of potential adverse effects",
+                "has led to",
+                "a weak evidence base regarding the safety of iodine thyroid blocking (ITB)"
+            ]
+        ]
+    ]
+}

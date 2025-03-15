@@ -1,0 +1,30 @@
+{
+    "text": "Input:\nInput Text: Thyroid hormone therapy may be indicated in patients with heart failure, particularly in those with low triiodothyronine (T3) levels or subclinical hypothyroidism. Clinical studies have shown that thyroid hormone replacement, such as synthetic L-T3, can improve cardiac function and neuroendocrine profiles without significant adverse effects, including increased heart rate. Additionally, thyroid hormone or its analogs have demonstrated potential benefits in enhancing myocardial performance and improving symptoms in heart failure patients. However, further controlled trials are necessary to evaluate the long-term safety and efficacy of such treatments in this population.\nOutput:\n[[\"Thyroid hormone therapy\", \"may be indicated in\", \"patients with heart failure, particularly in those with low triiodothyronine (T3) levels or subclinical hypothyroidism\"], [\"Clinical studies\", \"have shown that\", \"thyroid hormone replacement, such as synthetic L-T3, can improve cardiac function and neuroendocrine profiles without significant adverse effects, including increased heart rate\"], [\"Thyroid hormone or its analogs\", \"have demonstrated potential benefits in\", \"enhancing myocardial performance and improving symptoms in heart failure patients\"], [\"Further controlled trials\", \"are necessary to evaluate\", \"the long-term safety and efficacy of thyroid hormone therapy in patients with heart failure\"]]\n\n",
+    "input": {
+        "generated_answer": "Thyroid hormone therapy may be indicated in patients with heart failure, particularly in those with low triiodothyronine (T3) levels or subclinical hypothyroidism. Clinical studies have shown that thyroid hormone replacement, such as synthetic L-T3, can improve cardiac function and neuroendocrine profiles without significant adverse effects, including increased heart rate. Additionally, thyroid hormone or its analogs have demonstrated potential benefits in enhancing myocardial performance and improving symptoms in heart failure patients. However, further controlled trials are necessary to evaluate the long-term safety and efficacy of such treatments in this population."
+    },
+    "output": [
+        [
+            [
+                "Thyroid hormone therapy",
+                "may be indicated in",
+                "patients with heart failure, particularly in those with low triiodothyronine (T3) levels or subclinical hypothyroidism"
+            ],
+            [
+                "Clinical studies",
+                "have shown that",
+                "thyroid hormone replacement, such as synthetic L-T3, can improve cardiac function and neuroendocrine profiles without significant adverse effects, including increased heart rate"
+            ],
+            [
+                "Thyroid hormone or its analogs",
+                "have demonstrated potential benefits in",
+                "enhancing myocardial performance and improving symptoms in heart failure patients"
+            ],
+            [
+                "Further controlled trials",
+                "are necessary to evaluate",
+                "the long-term safety and efficacy of thyroid hormone therapy in patients with heart failure"
+            ]
+        ]
+    ]
+}

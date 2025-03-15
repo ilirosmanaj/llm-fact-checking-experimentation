@@ -1,0 +1,847 @@
+[
+  {
+    "id": 64,
+    "question": "Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?",
+    "answer": "Brain-lung-thyroid syndrome (BLTS) characterized by congenital hypothyroidism, respiratory distress syndrome, and benign hereditary chorea is caused by thyroid transcription factor 1 (NKX2-1/TTF1) mutations.",
+    "relevant_passage_ids": [
+      22166853,
+      24129101,
+      24171694,
+      25759798,
+      19336474,
+      22488412
+    ]
+  },
+  {
+    "id": 124,
+    "question": "Is DITPA a thyroid hormone analog utilized in experimental and clinical studies",
+    "answer": "There is very large body of evidence that DITPA is a true thyroid hormone analog, largely utilized in experimental and clinical studies.",
+    "relevant_passage_ids": [
+      17710084,
+      10749704,
+      20192904,
+      22993035,
+      9069582,
+      19286941,
+      9618233,
+      15148346,
+      20080837,
+      12145478,
+      21131480,
+      18353884,
+      16384862,
+      17612639,
+      11040100,
+      21658725,
+      18954857,
+      8936682,
+      18030062
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Is PTEN involved in follicular thyroid carcinoma?",
+    "answer": "The PTEN mutation frequency in unselected cases of follicular thyroid carcinoma was 4.8%.",
+    "relevant_passage_ids": [
+      9790504,
+      12203792,
+      11297621,
+      21417916,
+      9832031
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Does strenuous physical activity affect thyroid hormone metabolism?",
+    "answer": "YES",
+    "relevant_passage_ids": [
+      16175495,
+      2807143,
+      8325717,
+      596247,
+      14637241,
+      3101339
+    ]
+  },
+  {
+    "id": 182,
+    "question": "Does thyroid hormone regulate calcium transient in the myocardium? ",
+    "answer": "YES",
+    "relevant_passage_ids": [
+      9875761,
+      19298522,
+      9773867,
+      2428004
+    ]
+  },
+  {
+    "id": 191,
+    "question": "Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?",
+    "answer": "The lack of TR alpha1 exacerbates the manifestation of RTH in TR betaPV mice. Therefore, TR alpha1 could play a compensatory role in mediating the functions of T3 in heterozygous patients with RTH",
+    "relevant_passage_ids": [
+      7913092,
+      8068885,
+      8954015,
+      8475937,
+      9350446,
+      8594618,
+      23633213,
+      15860414,
+      9092799,
+      17906375,
+      17040361,
+      15913586,
+      12356724,
+      12750454
+    ]
+  },
+  {
+    "id": 195,
+    "question": "What is the prognostic role of thyroid hormone in patients with heart failure?",
+    "answer": "Altered thyroid profile, particularly sick euthyroid syndrome, is an independent predictor of mortality in patients with chronic heart failure, adding prognostic information to conventional clinical and functional cardiac parameters.",
+    "relevant_passage_ids": [
+      19006851,
+      20978564,
+      17893267,
+      9489964,
+      8960429,
+      15642542,
+      23369135,
+      17315395,
+      18221125,
+      22870736,
+      8333797,
+      19181292,
+      17966446,
+      15259379
+    ]
+  },
+  {
+    "id": 244,
+    "question": "How does exercise affect thyroid hormone receptors expression in the heart?",
+    "answer": "Exercise has been shown to increase  TR\u03b21 receptor expression in young rats.  Exercise has been shown to increase both TR\u03b11 and  TR\u03b21 receptor expression in aged rats.",
+    "relevant_passage_ids": [
+      11577024,
+      14704232
+    ]
+  },
+  {
+    "id": 264,
+    "question": "What is the treatment of subacute thyroiditis?",
+    "answer": "Common treatment of  subacute thyroiditis is with anti-inflammatory drug agents, namely corticosteroids",
+    "relevant_passage_ids": [
+      22313427,
+      23227861
+    ]
+  },
+  {
+    "id": 369,
+    "question": "At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?",
+    "answer": "Treatment of subclinical hypothyroidism is associated with fewer cardiovascular events in younger individuals, but this issue has not been resolved yet in elderly people.",
+    "relevant_passage_ids": [
+      17636722,
+      19463607,
+      16026106,
+      16542047
+    ]
+  },
+  {
+    "id": 548,
+    "question": "Which antibodies cause Riedel thyroiditis?",
+    "answer": "Riedel thyroiditis (Immunoglobulin G4-related thyroid disease) is caused by IgG4 antibodies. It is part of the spectrum of Ig4-related sclerosing disease.\nIt is associated with fibrosis and inflammation of the thyroid gland.",
+    "relevant_passage_ids": [
+      26273473,
+      24783026,
+      22498583,
+      22210556,
+      25224542
+    ]
+  },
+  {
+    "id": 577,
+    "question": "Is paramyxovirus involved in human subacute thyroiditis?",
+    "answer": "There is no evidence that paramyxovirus are involved in etiology of subacute thyroiditis.",
+    "relevant_passage_ids": [
+      9797,
+      22459018,
+      16279854,
+      1180050,
+      20886354,
+      806773,
+      22819125,
+      9637274
+    ]
+  },
+  {
+    "id": 585,
+    "question": "How does thyroid hormone regulate mitochondrial biogenesis in the myocardium?",
+    "answer": "T4 increases myocardial mitochondrial bioenergetic capacity, oxygen consumption and markers of mitochondrial biogenesis. The marked, parallel increases in PPARalpha levels suggest its potential involvement in mediating myocardial-specific remodeling of mitochondria in response to T4.  T3 induces mitochondrial biogenesis. In fact, T3 treatment for 72h  increases activity of respiratory complexes II, IV, V and citrate synthase (CS), levels of mitochondrial enzyme subunits (e.g. COXI, COXIV) and nuclear-encoded transcription factors, involved in mitochondrial biogenesis (e.g. PGC-1, mtTFA and PPAR-alpha).  Furthermore, L-T3 increases  the expression of factors involved in mitochondrial DNA transcription and biogenesis, such as hypoxic inducible factor-1\u03b1, mitochondrial transcription factor A and peroxisome proliferator activated receptor \u03b3 coactivator-1\u03b1, in the LV peri-infarct zone.\nThe activation of TFAM and TFB2M expression is shown to be required for the induction of mtDNA biogenesis by T3. Truncated forms of the nuclear receptor TR\u03b11, with molecular weights of 43 kDa (p43) and 28 Kda have been previously identified in mitochondria. P43 is a mitochondrial T3 receptor which stimulates mitochondrial transcription and protein synthesis in the presence of T3. p43 depletion in mice decreases mitochondrial DNA replication and respiratory chain activity.",
+    "relevant_passage_ids": [
+      12734114,
+      15543939,
+      15893763,
+      20515651,
+      22109994,
+      21914860,
+      19036942,
+      17962579,
+      19462004,
+      2773621,
+      7556180,
+      21568860,
+      1321044,
+      20100314,
+      215035,
+      12388124
+    ]
+  },
+  {
+    "id": 713,
+    "question": "What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?",
+    "answer": "Low T3 Syndrome is the more frequent alteration of thyroid hormone profile early after coronary artery bypass graft surgery.",
+    "relevant_passage_ids": [
+      12537197,
+      6422832,
+      22358266
+    ]
+  },
+  {
+    "id": 790,
+    "question": "Is recommended the use of perioperative treatment with thyroid hormone therapy in patients undergoing coronary artery bypass grafting?",
+    "answer": "Currently there is no substantial evidence to justify routine use of thyroid hormones in patients undergoing coronary artery bypass grafting.",
+    "relevant_passage_ids": [
+      14500064,
+      20668034,
+      16719939,
+      3872103,
+      12643405,
+      8389710,
+      7477166,
+      1859661,
+      12213743,
+      18290900,
+      8594265,
+      12079930,
+      12800543
+    ]
+  },
+  {
+    "id": 793,
+    "question": "How does thyroid  hormone  regulate  SR-Ca2+ ATPase  (SERCA) protein in the heart?",
+    "answer": "The thyroid hormone (TH) induced regulation of  SERCA is mediated both by non-genomic and genomic actions.\nGenomic actions are mediated by the binding of T(3) receptors (TRs) to the thyroid response elements in the SERCA promotor and result in increased gene expression. \nThyroid hormone  increases the transcription of  SERCA 2  through three thyroid hormone response elements. \nData show that the regulation of  cardiac SERCA by thyroid hormone is made at the  pretranslational and possibly transcriptional level \nTR\u03b21 is shown to be coupled to the expression of SERCA in the heart\nAn  increase of TR expression in the hypertrophied heart has been show to result in  increased SERCA expression.\nInhibition of TR\u03b11 by dronedarone does not change the expression of SERCA in the heart\nFindings show that  SERCA 2 gene expression  is regulated  by TR  isoform-specific interactions with transcription factor (MEF-2) \nHypothyroidism is accompanied by decreased expression of SERCA in the heart.   T3 increases expression of the cardiac SERCA\nTH treatment can reverse the reduction in the ratio of SERCA to phospholamban expression which is found in postinfarcted hearts\nTH treatment  results in increased expression of SERCA in hearts from banded rats",
+    "relevant_passage_ids": [
+      17317766,
+      15687816,
+      11470472,
+      15242794,
+      9312172,
+      16595628,
+      20232113,
+      11577024,
+      2142022,
+      18658259,
+      11145561,
+      8977381,
+      14704232,
+      22975595,
+      18274800
+    ]
+  },
+  {
+    "id": 808,
+    "question": "Which genes does thyroid hormone receptor beta1 regulate in the liver?",
+    "answer": "LDL receptor\"//\n\"ChREBP\"//\n\"ME\", \"malic enzyme\"//\n\"cytochrome P450 oxidoreductase\"//",
+    "relevant_passage_ids": [
+      19324998,
+      9224811,
+      9832432
+    ]
+  },
+  {
+    "id": 824,
+    "question": "is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?",
+    "answer": "whether SH confers a high risk for cardiovascular disease, and whether LT4 therapy has a long-term benefit that clearly outweighs the risks of overzealous treatment in these individuals, remain topics of controversy.",
+    "relevant_passage_ids": [
+      23252247,
+      19006851,
+      16259335,
+      23369134,
+      17636722,
+      21823062,
+      19463607,
+      16026106,
+      16542047
+    ]
+  },
+  {
+    "id": 885,
+    "question": "Does  thyroid hormone receptor beta1 affect insulin secretion?",
+    "answer": "No",
+    "relevant_passage_ids": []
+  },
+  {
+    "id": 900,
+    "question": "Are there plasma membrane receptors for thyroid hormones?",
+    "answer": "Receptors for thyroid hormones are present on plasma membrane of cells; in particular thyroid hormones bind integrin that is a heterodimeric component of plasma membrane",
+    "relevant_passage_ids": [
+      17983645,
+      169249,
+      23137442,
+      22414628,
+      22986150,
+      20232113,
+      23021374,
+      17570630,
+      6093898,
+      20658515,
+      1747413,
+      22945636,
+      6312037,
+      8936679,
+      2534509,
+      23943159,
+      23926648
+    ]
+  },
+  {
+    "id": 905,
+    "question": "Are viruses involved in the etiology of human subacute thyroiditis?",
+    "answer": "Subacute thyroiditis (SAT) is an inflammatory disorder of the thyroid caused probably by viruses\nThe principal classes of viruses involed  in SAT include Epstein Barr and Retroviridae",
+    "relevant_passage_ids": [
+      1856259,
+      22459018,
+      18422033,
+      12608662,
+      16279854,
+      22819125,
+      18421188,
+      9790279,
+      4936649,
+      10525005,
+      20886354,
+      23227861,
+      9915102,
+      19138419
+    ]
+  },
+  {
+    "id": 932,
+    "question": "Which are the thyroid hormone analogs utilized in human studies?",
+    "answer": "TRIAC and TETRAC are two different thyroid hormone analogs utilized in human studies",
+    "relevant_passage_ids": [
+      9001190,
+      20187783,
+      18954857,
+      21896621,
+      3730832,
+      22947347,
+      1193013,
+      7608251,
+      18386142,
+      16384862
+    ]
+  },
+  {
+    "id": 948,
+    "question": "What is the role of thyroid hormone receptor alpha1 in insulin secretion?",
+    "answer": "Liganded TR(alpha) plays a critical role in beta-cell replication and in expansion of the beta-cell mass. the TRalpha P398H mutation which cannot bind T3, is associated with  insulin resistance. Loss of Thra protects mice from high-fat diet-induced hepatic and peripheral insulin resistance.",
+    "relevant_passage_ids": [
+      12869545,
+      20529852
+    ]
+  },
+  {
+    "id": 952,
+    "question": "Which is the prognostic impact of hypothyroidism in patients with acute myocardial infarction?",
+    "answer": "Thyroid dysfunction, particularly low T3 syndrome,  is a strong predictor of short-term and long-term poor prognoses in patients with acute myocardial infarctions.",
+    "relevant_passage_ids": [
+      19609889,
+      16330914,
+      23990180,
+      11747849,
+      23124142
+    ]
+  },
+  {
+    "id": 957,
+    "question": "Is selenium deficiency involved in autoimmune thyroid disease?",
+    "answer": "Selenium deficiency is likely to constitute a risk factor for a feedforward derangement of the immune system-thyroid interaction, while selenium supplementation appears to dampen the self-amplifying nature of this derailed interactionIn areas with severe selenium deficiency higher incidence of thyroiditis has been reported due to a decreased activity of selenium-dependent glutathione peroxidase enzyme within thyroid cells",
+    "relevant_passage_ids": [
+      23786024,
+      15132715,
+      11932302,
+      19034261,
+      21896670
+    ]
+  },
+  {
+    "id": 1027,
+    "question": "What is the treatment of Riedel disease (thyroiditis)?",
+    "answer": "Riedel thyroiditis is a rare disorder related to a systemic extracervical fibrotic process of unknown origin. The tratment of choice is the surgical treatment: Corticosteroids may be also useful",
+    "relevant_passage_ids": [
+      21568724,
+      3287769,
+      22210556,
+      11014014
+    ]
+  },
+  {
+    "id": 1073,
+    "question": "How does TNF affect thyroid hormone receptors?",
+    "answer": "TNF-alpha inhibits the T3-induced expression of thyroid hormone receptor-beta",
+    "relevant_passage_ids": [
+      18403482
+    ]
+  },
+  {
+    "id": 1092,
+    "question": "Does amiodarone affect thyroid hormone receptors in the myocardium?",
+    "answer": "Yes",
+    "relevant_passage_ids": [
+      9781936,
+      10445678
+    ]
+  },
+  {
+    "id": 1097,
+    "question": "Does thyroid hormone affect cardiac remodeling?",
+    "answer": "TH affects cardiac remodeling",
+    "relevant_passage_ids": [
+      19951746,
+      23532677,
+      20668933,
+      19826181,
+      17389455,
+      22039709,
+      21568669,
+      18773293,
+      21159857,
+      20926779,
+      18622044,
+      18430565,
+      18274800,
+      20730619
+    ]
+  },
+  {
+    "id": 1105,
+    "question": "Are thyroid hormone receptor alpha1 mutations  implicated in thyroid hormone resistance syndrome?",
+    "answer": "thyroid hormone receptor alpha1 mutations are implicated in thyroid hormone resistance syndrome",
+    "relevant_passage_ids": [
+      23528896,
+      23633213,
+      12750454
+    ]
+  },
+  {
+    "id": 1117,
+    "question": "Which genes does thyroid hormone receptor alpha1 regulate in the heart?",
+    "answer": "\u03b2-myosin heavy chain, alpha-myosin heavy chain, SR(Ca)ATPase, phospholamban, nucleotide-gated potassium channel 2, KCNE1, HCN2, HCN4, KCND2, KCND3, KCNA4",
+    "relevant_passage_ids": [
+      11577024,
+      19171649,
+      16155104,
+      23532677,
+      17317766,
+      15687816,
+      14704232,
+      15808842,
+      20228172,
+      19832729,
+      18622044
+    ]
+  },
+  {
+    "id": 1132,
+    "question": "What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?",
+    "answer": "There is an inverse correlation between inflammatory markers (IL-6 and TNF alfa and PCR) and FT3 levels in patients with heart failure",
+    "relevant_passage_ids": [
+      16524802,
+      19926244,
+      11021766,
+      15259379,
+      15521205
+    ]
+  },
+  {
+    "id": 1135,
+    "question": "Which genes does thyroid hormone receptor alpha1 regulate in the liver?",
+    "answer": "phosphoenolpyruvate-carboxykinase\"//\n\"pyruvate kinase\"//\n\"D1\", \"deiodinase 1\"//",
+    "relevant_passage_ids": [
+      11222747,
+      19282388
+    ]
+  },
+  {
+    "id": 1142,
+    "question": "How are thyroid hormones involved in the development of diabetic cardiomyopathy?",
+    "answer": "The diabetic state  is associated with lowered T3 and T4 levels. Thyroid hormone treatment in diabetic cardiomyopathy may partially reverse cardiac dysfunction",
+    "relevant_passage_ids": [
+      8590944,
+      2934121,
+      2830793,
+      3181644
+    ]
+  },
+  {
+    "id": 1152,
+    "question": "Does thyroid hormone affect cardiac remodeling ?",
+    "answer": "Cardiac function and mechanics are significantly affected by low thyroid function. l-T4 therapy improves but does not completely recover cardiac function in patients with mild hypothyroidism.\nLong-term T4 treatment after myocardial infarction has beneficial effects on myocyte, arteriolar, and collagen matrix remodeling in the non-infarcted area. Most importantly, results suggest improved survival of myocytes in the peri-infarct area.",
+    "relevant_passage_ids": [
+      23532677,
+      24187401,
+      21568669,
+      23990180,
+      9489964,
+      17315395,
+      16719939,
+      24159562,
+      23762386,
+      24322910,
+      24152286,
+      19096930,
+      24157158,
+      14704232,
+      24195179,
+      24014964,
+      24315768,
+      23409791
+    ]
+  },
+  {
+    "id": 1185,
+    "question": "Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?",
+    "answer": "thyroid hormone transporter MCT8 is implicated in thyroid hormone resistance syndrome",
+    "relevant_passage_ids": [
+      18940949,
+      8475937,
+      22986150,
+      19541799,
+      9350446,
+      1580595,
+      21825978,
+      8594618,
+      9092799,
+      2885829,
+      24170966,
+      23392090,
+      8421095,
+      17040361,
+      10687857,
+      17574009
+    ]
+  },
+  {
+    "id": 1190,
+    "question": "What is known as the cause of subacute thyroiditis?",
+    "answer": "Most cases of subacute thyroiditis are caused by a variety of viruses, for example, Coxsackie, cytomegalovirus, Epstein-Barr virus, and adenovirus",
+    "relevant_passage_ids": [
+      16284433,
+      22819125
+    ]
+  },
+  {
+    "id": 1204,
+    "question": "List the different subtypes of thyroid cancer.",
+    "answer": "The different histologic subtypes of thyroid cancer include papillary, follicular, anaplastic, medullary, and H\u00fcrthle cell carcinomas.",
+    "relevant_passage_ids": [
+      17985985,
+      8608779,
+      21169742,
+      21272686,
+      21553140,
+      24163390
+    ]
+  },
+  {
+    "id": 1211,
+    "question": "What is the prognostic role of alterred thyroid profile after cardiosurgery?",
+    "answer": "Altered thyroid profile after cardiosurgery is associated with high incidence of atrial fibrillation e delay in recovery (prolonged hospitalisation) in adults and higher score on The Pediatric Risk of Mortality (PRISM; P < 0.042) and a longer duration of ventilation in children.Impportantly in transplanted patients altered thyroid metabolism,low T3 syndrome, is characterized by highest mortality, highest incidence of acute rejection or reoperations and infections",
+    "relevant_passage_ids": [
+      14500064,
+      12475369,
+      15868525,
+      16677263,
+      19303793,
+      19463607,
+      21959513
+    ]
+  },
+  {
+    "id": 1232,
+    "question": "How does adrenergic signaling affect thyroid hormone receptors?",
+    "answer": "alpha1- adrenergic signalling  increases  TRalpha1 expression in nucleus and  decreases  TRalpha1 expression in cytosol.",
+    "relevant_passage_ids": [
+      18622044
+    ]
+  },
+  {
+    "id": 1254,
+    "question": "Which compounds exist that are thyroid hormone analogs?",
+    "answer": "Compoounds such as 3,5-diiodo-L-thyronine, T2, GC-24, CO23, DITPA, 3,5-diiodothyropropionic acid, GC-1, Tetrac, 3,3',5,5'-tetraiodo-thyroacetic acid, KB- 2115, KB - 141, thyronamines, T4-agarose, CGS 23425, D-T3, 3,3',5-triiodo-D-thyronine, 3,5-T2, 3,5-diiodo-L-thyronine, DIT, 3,5-diiodo-L-tyrosine, MIT, 3-monoiodo-L-tyrosine, triac, 3, 3',5-triiodo-thyroacetic acid, 3,5-Diiodo-4-hydroxyphenylpropionic acid, DIHPA, 3,5-Dimethyl-3'-isopropyl-L-thyronine, DIMIT, 3,5-diiodo-3'-isopropylthyroacetic acid and IpTA2 are compounds that are thyroid hormone analogs.",
+    "relevant_passage_ids": [
+      6327972,
+      21239431,
+      12010632,
+      18954857,
+      3359982,
+      3707599,
+      21670063,
+      19074582,
+      3756504,
+      8301561,
+      15148346,
+      16384862
+    ]
+  },
+  {
+    "id": 1255,
+    "question": "Is lenvatinib effective for thyroid cancer?",
+    "answer": "Yes, lenvatinib is effective for thyroid cancer.",
+    "relevant_passage_ids": [
+      26105190,
+      25974026
+    ]
+  },
+  {
+    "id": 1302,
+    "question": "Does thyroid hormone signaling affect microRNAs expression in the heart?",
+    "answer": "YES",
+    "relevant_passage_ids": [
+      21149577,
+      17379774
+    ]
+  },
+  {
+    "id": 1316,
+    "question": "What is known about potential implication of thyroid hormone receptors in arterial hypertension?",
+    "answer": "thyroid hormone receptors are implicated in arterial hypertension",
+    "relevant_passage_ids": [
+      21654857,
+      23257356,
+      11172625,
+      15611830,
+      22068246,
+      8070428,
+      22837855
+    ]
+  },
+  {
+    "id": 1355,
+    "question": "How does dronedarone affect thyroid hormone signaling in the heart?",
+    "answer": "Dronedarone via its metabolite debutyldronedarone acts as a TRalpha(1)-selective inhibitor and selectively mimicks hypothyroidism.\nDronedarone  decreases TRalpha 1 and beta 1 expression by about 50%  in the right atrium (RA)  while in the left ventricle, only TRbeta1 is found to be decreased.",
+    "relevant_passage_ids": [
+      12063079,
+      15687816,
+      12538616,
+      21442236
+    ]
+  },
+  {
+    "id": 1388,
+    "question": "How thyrocyte destruction is induced in autoimmune thyroiditis?",
+    "answer": "Thyrocytes from Hashimoto's thyroiditis (HT) glands, but not from nonautoimmune thyroids, expressed Fas (CD95), therefore autonomous interaction between thyrocyte Fas (CD95) and FasL (CD95L) has been proposed as a major mechanism of thyrocyte depletion in HT. Moreover, experimental evidence has showed that Infiltrating T Lymphocytes (ITLs) do not express significant amounts of FasL, suggesting that ITLs are not directly involved in thyrocyte destruction.",
+    "relevant_passage_ids": [
+      11321234,
+      9886394
+    ]
+  },
+  {
+    "id": 1507,
+    "question": "Do thyroid hormone receptors change after brain injury?",
+    "answer": "thyroid hormone receptors increase after brain injury",
+    "relevant_passage_ids": [
+      24174657,
+      6329444,
+      14761671
+    ]
+  },
+  {
+    "id": 1522,
+    "question": "Which genes does thyroid hormone receptor beta1 regulate in the heart?",
+    "answer": "\u03b2-MHC, HCN4, KCND2/3, SERCA, TRbeta1, alpha-MHC",
+    "relevant_passage_ids": [
+      11577024,
+      19171649,
+      17317766,
+      21149577
+    ]
+  },
+  {
+    "id": 1532,
+    "question": "Is selumetinib effective in thyroid cancer?",
+    "answer": "Yes, selumetinib was shown to be effective treatment for thyroid cancer. Selumetinib may reverse radioiodine uptake in patients with radioiodine-refractory differentiated thyroid cancer. Clinical efficacy of selumetinib was also investigated in other solid tumors.",
+    "relevant_passage_ids": [
+      24716986,
+      22451620,
+      23406027,
+      25309778,
+      25240824
+    ]
+  },
+  {
+    "id": 1542,
+    "question": "Is thyroid hormone therapy indicated in patients with heart failure?",
+    "answer": "There are several experimental and clinical evidences of the potential benefits of Thyroid hormone replacement therapy in heart failure. Initial clinical data showed also a good safety profile and tolerance of TH replacement therapy in patients withheart failure. \nHowever currently there is no indication to treat patients with heart failure withTHreplacementtherapy.",
+    "relevant_passage_ids": [
+      17710084,
+      17893267,
+      15604125,
+      9312172,
+      23369135,
+      18171701,
+      7954115,
+      18221125,
+      12145478,
+      9485134,
+      19808346,
+      20100314,
+      8333798,
+      23660007,
+      8936682,
+      8936683
+    ]
+  },
+  {
+    "id": 1554,
+    "question": "How does thyroid hormone affect insulin resistance in the heart?",
+    "answer": "T3 potentiates  insulin signaling and improves  insulin sensitivity. In addition,  T3 lowers  blood glucose in a model of type 2 diabetes. TRalpha P398H mutation is associated with insulin resistance. Circulating T(1)AM is produced from thyroid hormones and is found to be increased in diabetic patients.",
+    "relevant_passage_ids": [
+      12869545,
+      22031514,
+      20883475
+    ]
+  },
+  {
+    "id": 1612,
+    "question": "Is physical performance influenced by thyroid hormone metabolism?",
+    "answer": "Yes.",
+    "relevant_passage_ids": [
+      16174720,
+      19468264,
+      18523407,
+      17893267,
+      16910873,
+      2704923
+    ]
+  },
+  {
+    "id": 1627,
+    "question": "What is the role of thyroid hormone in Stem cell differentiation?",
+    "answer": "Thyroid hormone treatment of Human-induced pluripotent stem cell-derived cardiomyocytes attenuates the fetal gene expression and induces differentiation. Liganded T3 receptor (TR) regulates cell autonomous formation of adult intestinal progenitor cells and that T3 action in the connective tissue is important for the establishment of the stem cell niche. In the intestinal epithelium, TR\u03b11 and TR\u03b22 are expressed at the level of  stem/progenitor cell populations where they induce cell proliferation and differentiation, respectively.  Thyroid hormone is implicated in neural stem cell function and differentiation and acts as a neurogenic switch in the adult neural stem cell niche. Furthermore, thyroid hormone enhances maturation of oligodendrocyte precursor cells. Thyroid hormones also induce hemopoietic pluripotent stem cell differentiation toward erythropoiesis and  c-erbA/TR appears to act as a binary switch affecting erythroid cell fate: unliganded c-erbA/TR supports growth while ligand-activated c-erbA/TR induces differentiation. Finally, thyroid hormone modulates late differentiation stages of mesenchymal stem cells chondrogenesis via BMP signaling.",
+    "relevant_passage_ids": [
+      7935490,
+      24013065,
+      2298257,
+      15728663,
+      23937304,
+      15358620,
+      15550503,
+      22497336,
+      21896185,
+      22968643,
+      22560077,
+      12072400,
+      20667986,
+      22468949,
+      9731697,
+      20656376,
+      22890105
+    ]
+  },
+  {
+    "id": 1630,
+    "question": "Which extra thyroid tissues have thyrotropin (TSH) receptors?",
+    "answer": "TSH receptors are expressed also in extrathyroid tissues. TSH receptors seem to be functional. Extrathyroid tissues include fibrobasts of the orbit and adipose tissue\nThe principal tissues with TSH receptors are:\nadippose tissue\n orbital fibrotic tissue",
+    "relevant_passage_ids": [
+      21956421,
+      22289392,
+      22496347
+    ]
+  },
+  {
+    "id": 1697,
+    "question": "Which mitochondrial genes are regulated by thyroid hormone?",
+    "answer": "subunit 6 of ATP synthase, ATPase-6, mitochondrial II and III subunits of cytochrome-c oxidase, NADH dehydrogenase subunit 3",
+    "relevant_passage_ids": [
+      1331777,
+      12225634,
+      7763274
+    ]
+  },
+  {
+    "id": 1739,
+    "question": "Is there a relationship between thyroid hormone altered metabolism and coronary artery disease?",
+    "answer": "The major part of the studies and metaanalysis data show that hypothyroidism, both primary and secondary forms, is associated with higher incidence and severity of coronary artery disease.",
+    "relevant_passage_ids": [
+      17434631,
+      17222925,
+      19609889,
+      18497453,
+      732079,
+      17614771,
+      16524858,
+      23470525,
+      22877896,
+      23086805,
+      9709915,
+      9117915,
+      21789282,
+      22724581,
+      16649727
+    ]
+  },
+  {
+    "id": 2072,
+    "question": "Is vemurafenib used for thyroid cancer?",
+    "answer": "Yes. Vemurafenib, a selective BRAF inhibitor, appears to have promising clinical activity in patients with papillary thyroid cancer (PTC) harboring the BRAF(V600E) mutation.",
+    "relevant_passage_ids": [
+      25467940,
+      24262022,
+      26284586,
+      26636651,
+      25353071,
+      27432558,
+      27554612,
+      26751190,
+      24987354,
+      27460442,
+      23489023
+    ]
+  },
+  {
+    "id": 2405,
+    "question": "How does parathyroid hormone affect circulating levels of periostin?",
+    "answer": "Parathyroid hormone can upregulate periostin levels.",
+    "relevant_passage_ids": [
+      20654714
+    ]
+  },
+  {
+    "id": 3529,
+    "question": "Are CD8+ (cytotoxic) T cells and  CD4+ Helper T cells generated in the thyroid and express the T-cell receptor?",
+    "answer": "Through positive selection, double-positive cells in the thymus differentiate into CD4(+) or CD8(+) T single-positive cells that subsequently develop into different types of effective T cells, such as T-helper and cytotoxic T lymphocyte cells, These two cell types are derived from common precursors in the thymus.",
+    "relevant_passage_ids": [
+      10761920,
+      7904067,
+      29677476,
+      25591463,
+      26301869,
+      10882415,
+      2573519,
+      28382035,
+      1533274
+    ]
+  },
+  {
+    "id": 3654,
+    "question": "What is iodine thyroid blocking?",
+    "answer": "High doses of potassium iodide are effective to block radioiodine thyroid uptake and to prevent development of thyroid cancer years later.",
+    "relevant_passage_ids": [
+      27664997,
+      23475155,
+      22021061,
+      27574319
+    ]
+  }
+]

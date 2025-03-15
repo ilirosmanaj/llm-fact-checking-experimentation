@@ -1,0 +1,9 @@
+easydict==1.13
+langchain==0.3.15
+langchain_core==0.3.31
+langchain_openai==0.3.2
+python-dotenv==1.0.1
+setuptools==68.2.0
+scikit-learn==1.6.1
+GitPython==3.1.44
+datasets==3.1.0
